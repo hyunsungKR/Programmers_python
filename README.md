@@ -1,3 +1,7 @@
-# programmers_python
+# Programmers Python Solutions
 
-1 Algorithm a Day, Start on 2023/10/4
+![Programmers](<https://school.programmers.co.kr/>)
+
+**Started consistently solving algorithms on October 4, 2023.**
+
+This repository contains my solutions to various algorithmic prob
